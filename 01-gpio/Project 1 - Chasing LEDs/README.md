@@ -21,3 +21,4 @@ See [main.c](main.c).
 ## Circuit
 
 <!-- Add your circuit diagram and real breadboard photo here. -->
+![image](.attachments/5cc2ec249425d3464869f6b427f398e313179b20.png) 
